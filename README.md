@@ -1,4 +1,4 @@
-# Algorthmic Trading API Implementation
+# Algorithmic Trading API Implementation
 Implementation of Alpha Vantage trading api to fetch and showcase scrip data
 
 ## Version 1.0 (Inprogess)
